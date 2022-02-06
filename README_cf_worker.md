@@ -24,7 +24,7 @@ again.</p>
 <p dir="auto">Set a short name for your worker to shorten the URL a bit.</p>
 </li>
 <li>
-<p dir="auto">Copy the code from <a href="https://github.com/elenorgt500/telegram/blob/main/cf_worker.js">index.js</a> and paste into the Editor given on the Create Worker page.</p>
+<p dir="auto">Copy the code from <a href="https://github.com/elenorgt500/telegram/blob/main/cf_worker.js">cf_worker.js</a> and paste into the Editor given on the Create Worker page.</p>
 </li>
 <li>
 <p dir="auto"><em>Save and Deploy</em></p>
