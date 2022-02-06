@@ -2,7 +2,7 @@
 <p dir="auto">You can use this script to create a CloudFlare Worker to 
 send requests to Telegram Bot API if your ISP or Web host does not allow
  it.</p>
-<h2 dir="auto"><a id="user-content-how-to-deploy" class="anchor" aria-hidden="true" href="https://github.com/elenorgt500/octg#how-to-deploy"><svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"></svg></a></h2>
+<h2 dir="auto"><a id="user-content-how-to-deploy" class="anchor" aria-hidden="true" href="https://github.com/elenorgt500/telegram#how-to-deploy"><svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"></svg></a></h2>
 <h2 dir="auto">How to Deploy</h2>
 <ul dir="auto">
 <li>
@@ -24,12 +24,12 @@ again.</p>
 <p dir="auto">Set a short name for your worker to shorten the URL a bit.</p>
 </li>
 <li>
-<p dir="auto">Copy the code from <a href="https://github.com/elenorgt500/octg/blob/main/cf_worker.js">index.js</a> and paste into the Editor given on the Create Worker page.</p>
+<p dir="auto">Copy the code from <a href="https://github.com/elenorgt500/telegram/blob/main/cf_worker.js">index.js</a> and paste into the Editor given on the Create Worker page.</p>
 </li>
 <li>
 <p dir="auto"><em>Save and Deploy</em></p>
 </li>
 </ul>
-<h2 dir="auto"><a id="user-content-how-to-use-in-oc-telegram-plugins" class="anchor" aria-hidden="true" href="https://github.com/elenorgt500/octg#how-to-use-in-oc-telegram-plugins"><svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"></svg></a></h2>
+<h2 dir="auto"><a id="user-content-how-to-use-in-oc-telegram-plugins" class="anchor" aria-hidden="true" href="https://github.com/elenorgt500/telegram#how-to-use-in-oc-telegram-plugins"><svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"></svg></a></h2>
 <h2 dir="auto">How to use in OC Telegram plugins</h2>
 <p dir="auto">After you deploy the Worker, simply copy the worker URL and paste in plugin settings. The URL may look like this <br> <code>https://my-worker.mysubdomain.workers.dev</code></p>
