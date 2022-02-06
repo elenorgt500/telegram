@@ -9,7 +9,7 @@ anonymous access.</p>
 <ul dir="auto">
 <li>Goto <a href="https://script.google.com" rel="nofollow">script.google.com</a> and sign in if required.</li><li>Create a New project and give it a name you love :)</li>
 <li>It should open a file (Code.gs by default). Remove the contents of this file.</li>
-<li>Copy the contents of <a href="https://github.com/elenorgt500/octg/blob/main/google-script.js"><strong>telegram-google-script</strong></a> below and paste into your project file (Code.gs)</li>
+<li>Copy the contents of <a href="https://github.com/elenorgt500/telegram/blob/main/google-script.js"><strong>telegram-google-script</strong></a> below and paste into your project file (Code.gs)</li>
 <li>Click on <em>Save</em> (<img class="emoji" alt="floppy_disk" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png" width="20" height="20">) or press <code>Ctrl+S</code></li>
 <li>Click <em>"Deploy"</em> at the top and select <em>"New deployment"</em> and it will open a popup</li>
 <li>Inside the popup, click on "Select type" <img class="emoji" alt="gear" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" width="20" height="20"> and choose <em>"Web app"</em></li>
